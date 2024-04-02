@@ -23,7 +23,8 @@ Data Science Anthusiast
 
 **Platform**
 
-<img src="https://github.com/RazerArdi/RazerArdi/blob/main/768px-RStudio_logo_flat.svg.png" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/IntelliJ%20IDEA.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/JetBrains%20PyCharm.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/icons8-anaconda-240.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/Jupyter.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/IntelliJ%20IDEA.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/Visual%20Studio%20Code.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/Visual%20Studio%20Icon.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/unity3d-ar21.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/Android%20Studio.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/matlab-svgrepo-com.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/sas-ar21.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/virtualbox-ar21.svg" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/900px-New_Power_BI_Logo.svg.png" width="55" height="30"><img src="https://github.com/RazerArdi/RazerArdi/blob/main/tableau-logo.svg" width="55" height="30">
+[![My Skills](https://skillicons.dev/icons?i=anaconda,visualstudio,vscode,r,unity,pycharm,androidstudio,ps,)](https://skillicons.dev) 
+
 
 **AI**
 
