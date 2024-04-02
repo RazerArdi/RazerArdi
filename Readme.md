@@ -57,7 +57,7 @@ Data Science Anthusiast
 <div align="center">
   <a href="https://github.com/RazerArdi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazerArdi&theme=blue-green" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RazerArdi&theme=blue-green" />
   </a>
   <a href="https://github.com/RazerArdi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&theme=blue-green" />
