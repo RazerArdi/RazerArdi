@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 Data Science Anthusiast
------------------------
+------------------------
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [bayuardi30@outlook.com](mailto:bayuardi30@outlook.com)
