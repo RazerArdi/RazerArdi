@@ -70,10 +70,10 @@ Data Science Anthusiast
 <div align="center">
   <a href="https://github.com/RazerArdi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RazerArdi)]" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RazerArdi" />
   </a>
   <a href="https://github.com/RazerArdi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&theme=radical" />
   </a>
 </div>
 
