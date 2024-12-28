@@ -67,16 +67,6 @@ Data Science Anthusiast
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture> </a> 
 
-<div align="center">
-  <a href="https://github.com/RazerArdi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RazerArdi" />
-  </a>
-  <a href="https://github.com/RazerArdi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&theme=radical" />
-  </a>
-</div>
-
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
