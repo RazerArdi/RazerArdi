@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Anthusiast
 ------------------------
 
-*   🌍  I'm based in Indonesia
+*   🌍  Indonesian
 *   ✉️  You can contact me at [bayuardi30@outlook.com](mailto:bayuardi30@outlook.com)
-*   🧠  I'm learning Artificial Intelligence and National Security
+*   🎓  Education: Bachelor of Science in Informatics from University of Muhammadiyah Malang 
+*   🧠  I'm learning Data Science and National Security
 *   🤝  I'm open to collaborating on International Relations Research, Media Monitoring, Game-Based Edu (GDD), Data Science or Network Projects based on defense security
 
 
@@ -44,7 +45,37 @@ Data Science Anthusiast
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***My GitHub Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<a href="http://www.github.com/RazerArdi"><img src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RazerArdi's GitHub stats" /></a> <a href="http://www.github.com/RazerArdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RazerArdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/RazerArdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+    <table>
+        <tr>
+            <!-- GitHub Stats -->
+            <td>
+                <a href="http://www.github.com/RazerArdi">
+                    <img src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
+                        alt="RazerArdi's GitHub stats" />
+                </a>
+            </td>
+            <!-- Top Languages -->
+            <td rowspan="2">
+                <a href="https://github.com/RazerArdi">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerArdi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+                        alt="Top Languages" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <!-- GitHub Streak -->
+            <td>
+                <a href="http://www.github.com/RazerArdi">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazerArdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+                        alt="GitHub Streak" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
 
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
