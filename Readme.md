@@ -10,9 +10,8 @@ Data Science Anthusiast
 *   🤝  I'm open to collaborating on International Relations Research, Media Monitoring, Game-Based Edu (GDD), Data Science or Network Projects based on defense security
 
 
-### Skills
-
-
+<strong><h1>Skills</h1></strong>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
@@ -24,8 +23,10 @@ Data Science Anthusiast
 | ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 
 
-                    
-### Socials
+<img src="[https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif](https://giphy.com/stickers/fash-rev-transparent-hPKw8QCM4SR53s42xN)" width="35">
+<strong><h1>My Social Media</h1></strong>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
                   
 <p align="left"> <a href="https://www.github.com/RazerArdi" target="_blank" rel="noreferrer">
                     <picture>
@@ -35,9 +36,6 @@ Data Science Anthusiast
                     </picture> </a> 
 
 <div align="center">
-  <a href="https://github.com/RazerArdi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RazerArdi" />
-  </a>
   <a href="https://github.com/RazerArdi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&theme=radical" />
   </a>
