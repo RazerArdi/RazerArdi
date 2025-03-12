@@ -10,6 +10,9 @@ Data Science Anthusiast
 *   🧠  I'm learning Data Science and National Security
 *   🤝  I'm open to collaborating on International Relations Research, Media Monitoring, Game-Based Edu (GDD), Data Science or Network Projects based on defense security
 
+<blockquote style="border-left: 4px solid #ddd; padding-left: 10px; margin-left: 0; font-style: italic; color: #555;">
+  <p>Hey folks! Just a heads-up, most of my repositories are behind the scenes (Private). But don't worry, awesome stuff is brewing!</p>
+</blockquote>
 
 <strong><h1>Skills</h1></strong>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
