@@ -14,8 +14,16 @@ Data Science Anthusiast
   <p>Hey folks! Just a heads-up, most of my repositories are behind the scenes (Private). But don't worry, awesome stuff is brewing!</p>
 </blockquote>
 
-<strong><h1>Skills</h1></strong>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRiem9pNjQyNXRlZWFwY3dobmo1YWpxZWVkb2NyNzBkdWpoNnNhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s0QuxoSX6DgdnGFoE/giphy.gif" width="500">
+</p>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4YWM2a2k0eDdhcndtZW1qYWxxcHhrdzk4N3AzNXU2cHFhazc0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PXuwQk2UVnZ3y9U0p8/giphy.gif" width="35">&nbsp;***Skills***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjeTg5YXBtbmc4bXJ0aDVsbmxoemw0OGwxdDR4Z203NnNkYXNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W39V7CaiNjZ64j4z8H/giphy.gif" width="500">
+</p>
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
@@ -27,8 +35,7 @@ Data Science Anthusiast
 | ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 
 
-<img src="[https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif](https://giphy.com/stickers/fash-rev-transparent-hPKw8QCM4SR53s42xN)" width="35">
-<strong><h1>My Social Media</h1></strong>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswNHA0bXdubWN6aHE3OXdhZzNhNThka2FsOW9yMTM4OGFkN2Y2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dhGGpFEXFUN63MVaSR/giphy.gif" width="35">&nbsp;***My Social Media***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
                   
