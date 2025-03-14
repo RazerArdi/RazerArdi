@@ -15,14 +15,14 @@ Data Science Anthusiast
 </blockquote>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRiem9pNjQyNXRlZWFwY3dobmo1YWpxZWVkb2NyNzBkdWpoNnNhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s0QuxoSX6DgdnGFoE/giphy.gif" width="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRiem9pNjQyNXRlZWFwY3dobmo1YWpxZWVkb2NyNzBkdWpoNnNhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s0QuxoSX6DgdnGFoE/giphy.gif" width="300">
 </p>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4YWM2a2k0eDdhcndtZW1qYWxxcHhrdzk4N3AzNXU2cHFhazc0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PXuwQk2UVnZ3y9U0p8/giphy.gif" width="35">&nbsp;***Skills***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjeTg5YXBtbmc4bXJ0aDVsbmxoemw0OGwxdDR4Z203NnNkYXNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W39V7CaiNjZ64j4z8H/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjeTg5YXBtbmc4bXJ0aDVsbmxoemw0OGwxdDR4Z203NnNkYXNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W39V7CaiNjZ64j4z8H/giphy.gif" width="300">
 </p>
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
