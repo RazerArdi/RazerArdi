@@ -38,13 +38,25 @@ Data Science Anthusiast
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswNHA0bXdubWN6aHE3OXdhZzNhNThka2FsOW9yMTM4OGFkN2Y2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dhGGpFEXFUN63MVaSR/giphy.gif" width="35">&nbsp;***My Social Media***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-                  
-<p align="left"> <a href="https://www.github.com/RazerArdi" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture> </a> 
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://www.github.com/RazerArdi" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/byardi1/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/RazerArdi/github-readme-stats">
