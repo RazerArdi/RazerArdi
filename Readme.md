@@ -58,12 +58,6 @@ Data Science Anthusiast
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/RazerArdi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazerArdi&show_icons=true&theme=radical" />
-  </a>
-</div>
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***My GitHub Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
