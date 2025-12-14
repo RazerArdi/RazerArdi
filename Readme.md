@@ -6,7 +6,7 @@ Data Science Anthusiast
 
 *   🌍  Indonesian
 *   ✉️  You can contact me at [bayuardi30@outlook.com](mailto:bayuardi30@outlook.com)
-*   🎓  Education: Bachelor of Science in Informatics from University of Muhammadiyah Malang 
+*   🎓  Education: Informatics from University of Muhammadiyah Malang 
 *   🧠  I'm learning Data Science and National Security
 *   🤝  I'm open to collaborating on International Relations Research, Media Monitoring, Game-Based Edu (GDD), Data Science or Network Projects based on defense security
 
